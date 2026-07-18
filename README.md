@@ -62,7 +62,7 @@ Mapty/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mapty.git
+https://github.com/ibrahimyasser450/Mapty.git
 ```
 
 ### 2. Open the project folder
